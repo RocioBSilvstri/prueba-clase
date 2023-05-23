@@ -1,0 +1,25 @@
+.card {
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid (rgb 194, 194, 194);
+    border-radius: 10px;
+    box-shadow: black 0px 5px 15px;
+    display: inline-block;
+}
+
+.fondo-celeste {
+    background-color: lightblue;
+}
+
+.fondo-verde {
+    background-color: rgb(130, 212, 130);
+}
+
+.fondo-lila {
+    background-color: rgb(218, 157, 218);
+}
+
+.fondo-softpink {
+    background-color: rgb(226, 186, 192);
+}
