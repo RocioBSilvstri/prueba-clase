@@ -1,0 +1,30 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000;
+    color: #bf60d6;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #3c0c52;
+}
